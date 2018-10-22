@@ -3,7 +3,7 @@ Unparalleled server for an unparalleled experience
 
 Pros:
 
-* It's unparalleled
+* Unparalleled performance
 
 Cons:
 
